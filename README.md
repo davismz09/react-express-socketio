@@ -18,6 +18,7 @@ Este es el cliente de un chat construido utilizando React y Socket.io. Permite a
 - **Conexión de Socket**: El cliente se conecta al servidor Socket.io para enviar y recibir mensajes en tiempo real.
 - **Envío de Mensajes**: Los usuarios pueden escribir mensajes y enviarlos al servidor para que sean distribuidos a otros usuarios conectados.
 - **Recepción de Mensajes**: Los mensajes enviados por otros usuarios se muestran en tiempo real en la interfaz de usuario del cliente.
+![image](https://github.com/davismz09/react-express-socketio/assets/108368356/ece86236-b35e-42db-ba5b-74cd788042ec)
 
 ## Tecnologías Utilizadas
 
